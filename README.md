@@ -1,11 +1,6 @@
 # AltosTV
-Nonton TV Gratis Sepuasnya Tanpa Langganan, Unduh Aplikasinya Dibawah
+Nonton TV Gratis Sepuasnya Tanpa Langganan, SEGERA
 
-#For Android Phone
-V1.1
 
-#For Android Tv
-V1.2
-
-#Up-to 51 Active Channel
-Dilarang mengambil urlnya ya kak
+#Up-to 30 Active Channel
+Playlist ini Adalah Fork Dari Beberapa Playlist Pada Versi awalnya, Namun Playlist Saat ini Sedang Dirombak 
