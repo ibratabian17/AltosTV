@@ -1,11 +1,2 @@
-# AltosTV
-Nonton TV Gratis Sepuasnya Tanpa Langganan, Unduh Aplikasinya Dibawah
-
-#For Android Phone
-V1.1
-
-#For Android Tv
-V1.2
-
-#Up-to 51 Active Channel
-Dilarang mengambil urlnya ya kak
+#AltosTv Testing
+Percobaan M3U8, AltosTV Saat Ini Mencoba Playlist MNCVision Dengan Format MPEG_DASH
