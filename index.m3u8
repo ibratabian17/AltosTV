@@ -79,6 +79,10 @@ https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
+#EXTINF:-1 group-title="LOKAL",KOMPAS TV
+https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
 #EXTINF:-1 group-title="ENTERTAIMENT",VISION PRIME HD
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -111,15 +115,43 @@ https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
-#EXTINF:-1 group-title="ENTERTAIMENT",tvN HD
+#EXTINF:-1 group-title="ENTERTAIMENT",TVN
 https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
+#EXTINF:-1 group-title="ENTERTAIMENT",ANIMAX
+https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
+#EXTINF:-1 group-title="ENTERTAIMENT",KIX
+https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
+#EXTINF:-1 group-title="ENTERTAIMENT",WARNERTV
+https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
+#EXTINF:-1 group-title="ENTERTAIMENT",SONE
+https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
+#EXTINF:-1 group-title="ENTERTAIMENT",MNC LIFETIME
+https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
+#EXTINF:-1 group-title="ENTERTAIMENT",HITS
+https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
+#EXTINF:-1 group-title="ENTERTAIMENT",TV5MONDE
+https://liveanevia.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
 #EXTINF:-1 group-title="MUSIC",MNC MUSICTV
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
-#EXTINF:-1 group-title="MOVIE",tvN Movies HD
+#EXTINF:-1 group-title="MOVIES",TVN MOVIES
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
@@ -133,6 +165,22 @@ https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
 #EXTINF:-1 group-title="KIDS",CARTOON NETWORK
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
+#EXTINF:-1 group-title="KIDS",NICK JUNIOR
+https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
+#EXTINF:-1 group-title="KIDS",DISNEY CHANNEL HD
+https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
+#EXTINF:-1 group-title="KIDS",KIDSTV
+https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
+#EXTINF:-1 group-title="KIDS",CBEEBIES
+https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
 #EXTINF:-1 group-title="KNOWLEDGE",HISTORY
@@ -172,4 +220,25 @@ https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
 #EXTINF:-1 group-title="MOVIES",HBO HITS HD
-https://liveanevia.mncnow.id/live/eds/HBOHits2/sa_dash_vmx/HBOHits2.mpd
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
+#EXTINF:-1 group-title="MOVIES",THRILL
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
+#EXTINF:-1 group-title="MOVIES",CELESTIAL MOVIES
+https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
+#EXTINF:-1 group-title="MOVIES",CCM
+https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
+#EXTINF:-1 group-title="MOVIES",ZEE BIOSKOP
+https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
+#EXTINF:-1 group-title="MOVIES",HITS MOVIES
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+
