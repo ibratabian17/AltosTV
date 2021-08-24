@@ -83,11 +83,17 @@ https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
+#EXTINF:-1 group-title="LOKAL",BERITA SATU
+https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+#EXTINF:-1 group-title="LOKAL",BERITA SATU HD
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
 #EXTINF:-1 group-title="ENTERTAIMENT",VISION PRIME HD
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
-#EXTINF:-1 group-title="ENTERTAIMENT",MNC ENT
+#EXTINF:-1 group-title="ENTERTAIMENT",ENTERTAIMENT
 https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
@@ -147,7 +153,7 @@ https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 https://liveanevia.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
-#EXTINF:-1 group-title="MUSIC",MNC MUSICTV
+#EXTINF:-1 group-title="MUSIC",MUSIC TV
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
@@ -212,11 +218,11 @@ https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovie
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
 #EXTINF:-1 group-title="MOVIES",HBO HD
-https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
 #EXTINF:-1 group-title="MOVIES",HBO FAMILY HD
-https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
+https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
 #EXTINF:-1 group-title="MOVIES",HBO HITS HD
@@ -241,4 +247,41 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
 #EXTINF:-1 group-title="MOVIES",HITS MOVIES
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
+#EXTINF:-1 group-title="NEWS",MNC NEWS 
+https://liveanevia.mncnow.id/live/eds/MNCNews/sa_dash_vmx/MNCNews.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
+#EXTINF:-1 group-title="NEWS",IDX
+https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
+#EXTINF:-1 group-title="NEWS",SEA TODAY
+https://liveanevia.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
+#EXTINF:-1 group-title="NEWS",AL JAZEERA ENGLISH
+https://liveanevia.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
+#EXTINF:-1 group-title="NEWS",RT ENGLISH
+https://liveanevia.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
+#EXTINF:-1 group-title="NEWS",FRANCE 24
+https://liveanevia.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
+#EXTINF:-1 group-title="NEWS",DW
+https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
+#EXTINF:-1 group-title="NEWS",TRT WORLD
+https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
+#EXTINF:-1 group-title="NEWS",CGTN
+https://liveanevia.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
+
 
