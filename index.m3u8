@@ -1,6 +1,10 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
+#EXTINF:-1 group-title="LOKAL",INFO IPTV
+https://github.com/ibratabian17/AltosTV/blob/m3u8channel/index/20210824_540p.mp4?raw=true
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
 #EXTINF:-1 group-title="LOKAL",RCTI
 https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -155,6 +159,14 @@ https://liveanevia.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
 #EXTINF:-1 group-title="MUSIC",MUSIC TV
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
+#EXTINF:-1 group-title="MUSIC",V CHANNEL
+https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
+#EXTINF:-1 group-title="MUSIC",ALTOSMUSIC
+https://ahjdusa.blogspot.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
 #EXTINF:-1 group-title="MOVIES",TVN MOVIES
