@@ -1,2 +1,5 @@
-#AltosTv Testing
-Percobaan M3U8, AltosTV Saat Ini Mencoba Playlist MNCVision Dengan Format MPEG_DASH
+#AltosTv
+
+Ini Adalah Branch Untuk AltosTV Rebranded, Jika Anda Ingin Mengunduh AltosTV, Ada Dapat ke Main Branch
+
+
