@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 group-title="Malaysia",Astro Shuang Xing
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia",Astro AOD En
+http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia",Astro AOD Mal
+http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia",Astro Quan Jia HD
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia",Astro Ceria
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1 "group-title="Malaysia",Astro Xiao Tai Yang
+http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia",Astro Citra
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia",Hua Hee Dai)
+http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia",Astro AEC
+http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia",iQIYI 爱奇艺
+http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia",Astro Awani
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia",Drama Sangat
+http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia",Astro Ria
+http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia",Tv3
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia",sunTv
+http://uk4.zecast.com:1935/star-live/suntv.stream/index.m3u8
+#EXTINF:-1 group-title="Malaysia",BernamaTv
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia",Hello
+http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia",NTV7
+http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia",Tv9
+http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia",Tv1
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8
+#EXTINF:-1 group-title="Malaysia",Tv2
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia",oh!hd
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
