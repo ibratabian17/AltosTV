@@ -15,7 +15,7 @@ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8
 #EXTINF:-1 group-title="Malaysia",TV2
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia",ASRO SHUANG XING
+#EXTINF:-1 group-title="Malaysia",ASTRO SHUANG XING
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia",ASTRO AOD En
 http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
@@ -41,5 +41,7 @@ http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia",ASTRO RIA
 http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia",OH!HD
+#EXTINF:-1 group-title="Malaysia",OH!K
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia",Astro Arena
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
