@@ -411,3 +411,7 @@ https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 #EXTINF:-1 group-title="RADIO",SUARGO FM
 http://suargofm.onlivestreaming.net:10090/;stream.nsv
+#EXTINF:-1 group-title="RADIO",PRAMBORS
+https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FMAAC.aac?dist=altostv
+#EXTINF:-1 group-title="RADIO",INDIKA FM
+https://s2.radio.co/sf58a82d7d/listen
