@@ -52,7 +52,7 @@ https://conversant.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="LOKAL",NET.
-https://conversant.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="LOKAL",TVONE
@@ -95,6 +95,10 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 https://v2.siar.us/tatv/live.sdp/chunks.m3u8
 #EXTINF:-1 group-title="LOKAL",TVRI 3
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="LOKAL",ADITV
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="LOKAL",JTV
+https://cdn02.mola.tv/Content/HLS/Live/channel(f2cd666d-f350-1140-7ce5-3d7f39f84727)/08.m3u8
 #EXTINF:-1 group-title="LOKAL",MAGNA CHANNEL
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1544941124_b878000_sleng.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -209,6 +213,8 @@ https://www.dropbox.com/s/8xinq1tj473wl35/warning.mp4?dl=1
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="KIDS",KIDSTV
 https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+#EXTINF:-1 group-title="KIDS",SPACETOON
+https://bravo.kugo.id/spacetoon/udp.stream_360p/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="KIDS",CBEEBIES
