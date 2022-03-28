@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Malaysia",TV3
-http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+https://github.com/samleong123/tonton_dailymotion_php/raw/main/m3u8/TV3.m3u8
 #EXTINF:-1 group-title="Malaysia",SUNTV
 http://uk4.zecast.com:1935/star-live/suntv.stream/index.m3u8
 #EXTINF:-1 group-title="Malaysia",BERNAMATV
@@ -10,7 +10,7 @@ http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia",NTV7
 http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia",TV9
-http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+https://github.com/samleong123/tonton_dailymotion_php/raw/main/m3u8/TV9.m3u8
 #EXTINF:-1 group-title="Malaysia",TV1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8
 #EXTINF:-1 group-title="Malaysia",TV2
@@ -36,9 +36,11 @@ http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia",iQIYI 爱奇艺
 http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia",ASTRO AWANI
-http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
+#EXTINF:-1 group-title="Malaysia",ASTRO OASIS
+http://mvu03.wanicelife.com:8880/live/SWFAF143575/VD6UF9EX/1701.m3u8
 #EXTINF:-1 group-title="Malaysia",DRAMA SANGAT
-http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
+https://github.com/samleong123/tonton_dailymotion_php/raw/main/m3u8/Drama_Sangat.m3u8
 #EXTINF:-1 group-title="Malaysia",ASTRO RIA
 http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia",OH!K
