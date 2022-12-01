@@ -133,6 +133,9 @@ https://liveaneviadev.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="ENTERTAINMENT",SONE
 https://liveaneviadev.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+#EXTINF:-1 group-title="ENTERTAINMENT",EGG NETWORK
+http://210.210.155.37/uq2663/h/h22/index.m3u8
+https://liveaneviadev.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="ENTERTAINMENT",LIFETIME
