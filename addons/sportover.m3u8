@@ -1,49 +1,49 @@
 #EXTM3U
-#EXTINF:-1 group-title="SPORTS" "tvg-logo="" ,Astro Arena
+#EXTINF:-1 group-title="SPORTS" "tvg-id="" "tvg-logo="" ,Astro Arena
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" "tvg-logo="" ,BEINSPORT 1
+#EXTINF:-1 group-title="SPORTS" "tvg-id="" "tvg-logo="" ,BEINSPORT 1
 http://1.yaciaptk.xyz/live/6161655/index.m3u8
-#EXTINF:-1 group-title="SPORTS" "tvg-logo="" ,BEINSPORT 2
+#EXTINF:-1 group-title="SPORTS" "tvg-id="" "tvg-logo="" ,BEINSPORT 2
 http://1.yaciaptk.xyz/live/616194987/index.m3u8
-#EXTINF:-1 group-title="SPORTS" "tvg-logo="" ,BEINSPORT 3
+#EXTINF:-1 group-title="SPORTS" "tvg-id="" "tvg-logo="" ,BEINSPORT 3
 http://4.yaciaptk.xyz/live/6151278887/index.m3u8
-#EXTINF:-1 group-title="SPORTS" "tvg-logo="" ,FOX SPORTS 1
+#EXTINF:-1 group-title="SPORTS" "tvg-id="" "tvg-logo="" ,FOX SPORTS 1
 http://topwin-tv.my.id/2/chunklist.m3u8?id=foxsport1&bandwidth=default&sync=0
-#EXTINF:-1 group-title="SPORTS" "tvg-logo="" ,FOX SPORTS 1
+#EXTINF:-1 group-title="SPORTS" "tvg-id="" "tvg-logo="" ,FOX SPORTS 1
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/17
-#EXTINF:-1 group-title="SPORTS" "tvg-logo="" ,FOX SPORTS 2
+#EXTINF:-1 group-title="SPORTS" "tvg-id="" "tvg-logo="" ,FOX SPORTS 2
 http://topwin-tv.my.id/2/chunklist.m3u8?id=foxsport2&bandwidth=default&sync=0
-#EXTINF:-1 group-title="SPORTS" "tvg-logo="" ,FOX SPORTS 2
+#EXTINF:-1 group-title="SPORTS" "tvg-id="" "tvg-logo="" ,FOX SPORTS 2
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/18
-#EXTINF:-1 group-title="SPORTS" "tvg-logo="" ,FOX SPORTS 3
+#EXTINF:-1 group-title="SPORTS" "tvg-id="" "tvg-logo="" ,FOX SPORTS 3
 http://topwin-tv.my.id/2/chunklist.m3u8?id=foxsport3&bandwidth=default&sync=0
-#EXTINF:-1 group-title="SPORTS" "tvg-logo="" ,FOX SPORTS 3
+#EXTINF:-1 group-title="SPORTS" "tvg-id="" "tvg-logo="" ,FOX SPORTS 3
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/19
-#EXTINF:-1 "group-title="SPORTS" "tvg-logo="" ,SPORT TV1
+#EXTINF:-1 "group-title="SPORTS" "tvg-id="" "tvg-logo="" ,SPORT TV1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS" "tvg-logo="" ,SPORT TV2
+#EXTINF:-1 group-title="SPORTS" "tvg-id="" "tvg-logo="" ,SPORT TV2
 http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS" "tvg-logo="" ,SPORT TV3
+#EXTINF:-1 group-title="SPORTS" "tvg-id="" "tvg-logo="" ,SPORT TV3
 http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 "group-title="SPORTS" "tvg-logo="" ,SPORT TV4
+#EXTINF:-1 "group-title="SPORTS" "tvg-id="" "tvg-logo="" ,SPORT TV4
 http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS" "tvg-logo="" ,SPORT TV5
+#EXTINF:-1 group-title="SPORTS" "tvg-id="" "tvg-logo="" ,SPORT TV5
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS" "tvg-logo="" ,SERIA ITALY
+#EXTINF:-1 group-title="SPORTS" "tvg-id="" "tvg-logo="" ,SERIA ITALY
 http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 group-title="SPORTS" "tvg-logo="" ,BEINSPORTS EXTRA
+#EXTINF:-1 group-title="SPORTS" "tvg-id="" "tvg-logo="" ,BEINSPORTS EXTRA
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
-#EXTINF:-1 group-title="SPORTS" "tvg-logo="" ,ELEVENT SPORTS
+#EXTINF:-1 group-title="SPORTS" "tvg-id="" "tvg-logo="" ,ELEVENT SPORTS
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS" "tvg-logo="" ,ALL SPORTS
+#EXTINF:-1 group-title="SPORTS" "tvg-id="" "tvg-logo="" ,ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS" "tvg-logo="" ,TNT SPORTS 1
+#EXTINF:-1 group-title="SPORTS" "tvg-id="" "tvg-logo="" ,TNT SPORTS 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1 group-title="SPORTS" "tvg-logo="" ,TNT SPORTS 2
+#EXTINF:-1 group-title="SPORTS" "tvg-id="" "tvg-logo="" ,TNT SPORTS 2
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 group-title="SPORTS" "tvg-logo="" ,TNT SPORTS 3
+#EXTINF:-1 group-title="SPORTS" "tvg-id="" "tvg-logo="" ,TNT SPORTS 3
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-#EXTINF:- group-title="SPORTS" "tvg-logo="" ,TNT SPORTS 4
+#EXTINF:- group-title="SPORTS" "tvg-id="" "tvg-logo="" ,TNT SPORTS 4
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1group-title="SPORTS" "tvg-logo="" ,TNT SPORTS 5
+#EXTINF:-1group-title="SPORTS" "tvg-id="" "tvg-logo="" ,TNT SPORTS 5
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
