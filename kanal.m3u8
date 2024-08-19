@@ -1,0 +1,2029 @@
+{
+    "header": {
+        "billed-msg": "AltosTV LongTermService IPTV Premium GRATIS! Jangan Lupa Bahagia",
+        "x-tvg-url": "https://raw.githubusercontent.com/ibraaltabian17/DumperYeshA/dump-epg/tv.xml",
+        "url-tvg": "https://raw.githubusercontent.com/ibraaltabian17/DumperYeshA/dump-epg/tv.xml"
+    },
+    "channels": [
+        {
+            "EXTINF": {
+                "name": "INFO ALTOSTV",
+                "tvg-id": "",
+                "tvg-logo": "",
+                "channel_name": "ALTOSTV REV.190824"
+            },
+            "url": "https://droid2.prjktla.workers.dev/Dosabesarmaling.mp4"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LOKAL",
+                "tvg-id": "RCTI.Id",
+                "tvg-logo": "",
+                "channel_name": "RCTI"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LOKAL",
+                "tvg-id": "GTV.Id",
+                "tvg-logo": "",
+                "channel_name": "GTV"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LOKAL",
+                "tvg-id": "MNCTV.Id",
+                "tvg-logo": "",
+                "channel_name": "MNC TV"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LOKAL",
+                "tvg-id": "Trans7.Id",
+                "tvg-logo": "",
+                "channel_name": "TRANS 7"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LOKAL",
+                "tvg-id": "TransTV.Id",
+                "tvg-logo": "",
+                "channel_name": "TRANS TV"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LOKAL",
+                "tvg-id": "",
+                "tvg-logo": "",
+                "channel_name": "CNN INDONESIA"
+            },
+            "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LOKAL",
+                "tvg-id": "CNBCIndonesia.id",
+                "name": "",
+                "tvg-logo": "",
+                "channel_name": "CNBC INDONESIA"
+            },
+            "EXTVLCOPT": {
+                "http-user-agent": "ExoPlayerLib/2.19.1"
+            },
+            "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LOKAL",
+                "tvg-id": "Indosiar.id",
+                "tvg-logo": "",
+                "channel_name": "INDOSIAR"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.dens.tv/",
+                "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+            },
+            "url": "http://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8?app_type=web&userid=lite&chname=Indosiar"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LOKAL",
+                "tvg-id": "MentariTV.id",
+                "name": "",
+                "tvg-logo": "",
+                "channel_name": "MENTARI TV"
+            },
+            "EXTVLCOPT": {
+                "http-user-agent": "ExoPlayerLib/2.19.1"
+            },
+            "url": "https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LOKAL",
+                "tvg-id": "OChannel.id",
+                "name": "",
+                "tvg-logo": "",
+                "channel_name": "MOJI"
+            },
+            "EXTVLCOPT": {
+                "http-user-agent": "ExoPlayerLib/2.19.1"
+            },
+            "url": "https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LOKAL",
+                "tvg-id": "ANTV.Id",
+                "tvg-logo": "",
+                "channel_name": "ANTV"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/ANTV/sa_dash_vmx/ANTV.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LOKAL",
+                "tvg-id": "RTV.Id",
+                "tvg-logo": "",
+                "channel_name": "RTV"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/RTV/sa_dash_vmx/RTV.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LOKAL",
+                "tvg-id": "MetroTV.Id",
+                "tvg-logo": "",
+                "channel_name": "METRO TV"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LOKAL",
+                "tvg-id": "iNews.Id",
+                "tvg-logo": "",
+                "channel_name": "INEWS"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd"
+        },
+        {
+            "EXTINF": {
+                "tvg-id": "SCTV.id",
+                "name": "",
+                "tvg-logo": "",
+                "channel_name": "SCTV"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.dens.tv/",
+                "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+            },
+            "url": "http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LOKAL",
+                "tvg-id": "Net..Id",
+                "tvg-logo": "",
+                "channel_name": "NET."
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LOKAL",
+                "tvg-id": "TVOne.Id",
+                "tvg-logo": "",
+                "channel_name": "TVONE"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/TVOne/sa_dash_vmx/TVOne.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LOKAL",
+                "tvg-id": "vtv.id",
+                "name": "",
+                "tvg-logo": "",
+                "channel_name": "VTV"
+            },
+            "EXTVLCOPT": {
+                "http-user-agent": "YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1"
+            },
+            "url": "https://flv.intechmedia.net/live/ch107.m3u8"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LOKAL",
+                "tvg-id": "TVRI.Id",
+                "tvg-logo": "",
+                "channel_name": "TVRI"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LOKAL",
+                "tvg-id": "JakTV.Id",
+                "tvg-logo": "",
+                "channel_name": "JAKTV"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/JakTV/sa_dash_vmx/JakTV.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LOKAL",
+                "tvg-id": "JTV.Id",
+                "tvg-logo": "",
+                "channel_name": "JTV"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/JTV/sa_hls/JTV.m3u8"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LOKAL",
+                "tvg-id": "BaliTV.Id",
+                "tvg-logo": "",
+                "channel_name": "BALI TV"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_Timeshift.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LOKAL",
+                "tvg-id": "DaaiTV.Id",
+                "tvg-logo": "",
+                "channel_name": "DAAI TV"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LOKAL",
+                "tvg-id": "BandungTV.Id",
+                "tvg-logo": "",
+                "channel_name": "BANDUNG TV"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LOKAL",
+                "tvg-id": "KompasTV.Id",
+                "tvg-logo": "",
+                "channel_name": "KOMPAS TV"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LOKAL",
+                "tvg-id": "BeritaSatu.Id",
+                "tvg-logo": "",
+                "channel_name": "BTV"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LOKAL",
+                "tvg-id": "BeritaSatu.Id",
+                "tvg-logo": "",
+                "channel_name": "BTV HD"
+            },
+            "url": "https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LOKAL",
+                "tvg-id": "",
+                "tvg-logo": "",
+                "channel_name": "TATV"
+            },
+            "url": "https://v2.siar.us/tatv/live.sdp/chunks.m3u8"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LOKAL",
+                "tvg-id": "",
+                "tvg-logo": "",
+                "channel_name": "TVRI 3"
+            },
+            "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LOKAL",
+                "tvg-id": "",
+                "tvg-logo": "",
+                "channel_name": "ADITV"
+            },
+            "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LOKAL",
+                "tvg-id": "JTV.Id",
+                "tvg-logo": "",
+                "channel_name": "JTV"
+            },
+            "url": "https://cdn02.mola.tv/Content/HLS/Live/channel(f2cd666d-f350-1140-7ce5-3d7f39f84727)/08.m3u8"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LOKAL",
+                "tvg-id": "",
+                "tvg-logo": "",
+                "channel_name": "MAGNA CHANNEL"
+            },
+            "url": "https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1544941124_b878000_sleng.m3u8"
+        },
+        {
+            "EXTINF": {
+                "group-title": "ENTERTAINMENT",
+                "tvg-id": "VisionPrime.Id",
+                "tvg-logo": "",
+                "channel_name": "VISION PRIME HD"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "ENTERTAINMENT",
+                "tvg-id": "Entertainment.Id",
+                "tvg-logo": "",
+                "channel_name": "ENTERTAINMENT"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "ENTERTAINMENT",
+                "tvg-id": "OKTV.Id",
+                "tvg-logo": "",
+                "channel_name": "OK TV"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/OKTV/sa_dash_vmx/OKTV.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "ENTERTAINMENT",
+                "tvg-id": "tvN.Id",
+                "tvg-logo": "",
+                "channel_name": "TVN"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/tvN/sa_dash_vmx/tvN.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "ENTERTAINMENT",
+                "tvg-id": "Animax.Id",
+                "tvg-logo": "",
+                "channel_name": "ANIMAX"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/Animax/sa_dash_vmx/Animax.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "ENTERTAINMENT",
+                "tvg-id": "KIX.Id",
+                "tvg-logo": "",
+                "channel_name": "KIX"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/KIX/sa_dash_vmx/KIX.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "ENTERTAINMENT",
+                "tvg-id": "NHKWorldJapan.Id",
+                "tvg-logo": "",
+                "channel_name": "NHK World TV"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "ENTERTAINMENT",
+                "tvg-id": "NHKWorldPremium.Id",
+                "tvg-logo": "",
+                "channel_name": "NHK World Premium"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "ENTERTAINMENT",
+                "tvg-id": "WarnerTV.Id",
+                "tvg-logo": "",
+                "channel_name": "WARNERTV"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "ENTERTAINMENT",
+                "tvg-id": "One.Id",
+                "tvg-logo": "",
+                "channel_name": "SONY ONE"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/SetOne/sa_dash_vmx/SetOne.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "ENTERTAINMENT",
+                "tvg-id": "",
+                "tvg-logo": "",
+                "channel_name": "ROCK ENTERTAINMENT"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "ENTERTAINMENT",
+                "tvg-id": "Lifetime.Id",
+                "tvg-logo": "",
+                "channel_name": "LIFETIME"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "ENTERTAINMENT",
+                "tvg-id": "AXN.Id",
+                "tvg-logo": "",
+                "channel_name": "AXN"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/AXN/sa_dash_vmx/AXN.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "ENTERTAINMENT",
+                "tvg-id": "",
+                "tvg-logo": "",
+                "channel_name": "WAKU WAKU JAPAN"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "ENTERTAINMENT",
+                "tvg-id": "HITS.Id",
+                "tvg-logo": "",
+                "channel_name": "HITS"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/HITS/sa_dash_vmx/HITS.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "ENTERTAINMENT",
+                "tvg-id": "TV5Monde.Id",
+                "tvg-logo": "",
+                "channel_name": "TV5MONDE"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/TV5/sa_dash_vmx/TV5.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "ENTERTAINMENT",
+                "tvg-id": "JiangsuTV.Id",
+                "tvg-logo": "",
+                "channel_name": "JIANGSU TV"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "ENTERTAINMENT",
+                "tvg-id": "HunanTV.Id",
+                "tvg-logo": "",
+                "channel_name": "HUNAN TV"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "ENTERTAINMENT",
+                "tvg-id": "ShanghaiDragonTV.Id",
+                "tvg-logo": "",
+                "channel_name": "SHANGHAI DRAGON TV"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "ENTERTAINMENT",
+                "tvg-id": "XingKongTV.Id",
+                "tvg-logo": "",
+                "channel_name": "XINGKONG TV"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "ENTERTAINMENT",
+                "tvg-id": "AnhuiTV.Id",
+                "tvg-logo": "",
+                "channel_name": "ANHUI TV"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "MUSIC",
+                "tvg-id": "MusicTV.Id",
+                "tvg-logo": "",
+                "channel_name": "MUSIC TV"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "MUSIC",
+                "tvg-id": "MTV.Id",
+                "tvg-logo": "",
+                "channel_name": "MTV LIVE HD"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/MTV/sa_dash_vmx/MTV.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "MUSIC",
+                "tvg-id": "",
+                "tvg-logo": "MIC.id",
+                "channel_name": "MUSIC INFORMATION CHANNEL"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://v2.siar.us/mic/live/playlist.m3u8"
+        },
+        {
+            "EXTINF": {
+                "group-title": "MUSIC",
+                "tvg-id": "",
+                "tvg-logo": "PopMusic.id",
+                "channel_name": "POP MUSIC"
+            },
+            "url": "https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8"
+        },
+        {
+            "EXTINF": {
+                "group-title": "MOVIES",
+                "tvg-id": "tvNMovies.Id",
+                "tvg-logo": "",
+                "channel_name": "TVN MOVIES"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "KIDS",
+                "tvg-id": "Nick.Id",
+                "tvg-logo": "",
+                "channel_name": "NICKELODEON"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "KIDS",
+                "tvg-id": "Boomerang.Id",
+                "tvg-logo": "",
+                "channel_name": "BOOMERANG"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "KIDS",
+                "tvg-id": "CartoonNetwork.Id",
+                "tvg-logo": "",
+                "channel_name": "CARTOON NETWORK"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "KIDS",
+                "tvg-id": "NickJr.Id",
+                "tvg-logo": "",
+                "channel_name": "NICK JUNIOR"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "KIDS",
+                "tvg-id": "KidsTV.Id",
+                "tvg-logo": "",
+                "channel_name": "KIDSTV"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "KIDS",
+                "tvg-id": "BabyTV.Id",
+                "tvg-logo": "",
+                "channel_name": "BABY TV"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "KIDS",
+                "tvg-id": "",
+                "tvg-logo": "",
+                "channel_name": "SPACETOON"
+            },
+            "url": "https://bravo.kugo.id/spacetoon/udp.stream_360p/playlist.m3u8"
+        },
+        {
+            "EXTINF": {
+                "group-title": "KIDS",
+                "tvg-id": "BabyTV.Id",
+                "tvg-logo": "",
+                "channel_name": "CBEEBIES"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "KNOWLEDGE",
+                "tvg-id": "History.Id",
+                "tvg-logo": "",
+                "channel_name": "HISTORY"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/History/sa_dash_vmx/History.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "KNOWLEDGE",
+                "tvg-id": "NationalGeographic.Id",
+                "tvg-logo": "",
+                "channel_name": "NAT GEO"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "KNOWLEDGE",
+                "tvg-id": "NatGeoWild.Id",
+                "tvg-logo": "",
+                "channel_name": "LOVE NATURE"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "KNOWLEDGE",
+                "tvg-id": "BeSmart.Id",
+                "tvg-logo": "",
+                "channel_name": "BESMART"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "KNOWLEDGE",
+                "tvg-id": "AnimalPlanet.Id",
+                "tvg-logo": "",
+                "channel_name": "ANIMAL PLANET"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "KNOWLEDGE",
+                "tvg-id": "BBCEarth.Id",
+                "tvg-logo": "",
+                "channel_name": "BBC EARTH"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "KNOWLEDGE",
+                "tvg-id": "CrimeInvestigation.Id",
+                "tvg-logo": "",
+                "channel_name": "CRIME INVESTIGATION"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "MOVIES",
+                "tvg-id": "IMC.Id",
+                "tvg-logo": "",
+                "channel_name": "IMC"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "MOVIES",
+                "tvg-id": "Galaxy.Id",
+                "tvg-logo": "",
+                "channel_name": "GALAXY"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "MOVIES",
+                "tvg-id": "GalaxyPremium.Id",
+                "tvg-logo": "",
+                "channel_name": "GALAXY PREMIUM"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "MOVIES",
+                "tvg-id": "MyCinema.Id",
+                "tvg-logo": "",
+                "channel_name": "MY CINEMA"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "MOVIES",
+                "tvg-id": "HBOFamily.Id",
+                "tvg-logo": "",
+                "channel_name": "HBO FAMILY"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "MOVIES",
+                "tvg-id": "HBOHits.Id",
+                "tvg-logo": "",
+                "channel_name": "HBO HITS"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "MOVIES",
+                "tvg-id": "CINEMAX.Id",
+                "tvg-logo": "",
+                "channel_name": "CINEMAX"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "MOVIES",
+                "tvg-id": "HBOSignature.Id",
+                "tvg-logo": "",
+                "channel_name": "HBO SIGNATURE"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "MOVIES",
+                "tvg-id": "Thrill.Id",
+                "tvg-logo": "",
+                "channel_name": "THRILL"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/Thrill/sa_dash_vmx/Thrill.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "MOVIES",
+                "tvg-id": "CelestialMovies.Id",
+                "tvg-logo": "",
+                "channel_name": "CELESTIAL MOVIES"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "MOVIES",
+                "tvg-id": "CelestialClassicMovie.Id",
+                "tvg-logo": "",
+                "channel_name": "CCM"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "MOVIES",
+                "tvg-id": "ZeeBioskop.Id",
+                "tvg-logo": "",
+                "channel_name": "ZEE BIOSKOP"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "MOVIES",
+                "tvg-id": "HitsMovies.Id",
+                "tvg-logo": "",
+                "channel_name": "HITS MOVIES"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "NEWS",
+                "tvg-id": "MNCNews.Id",
+                "tvg-logo": "",
+                "channel_name": "MNC NEWS"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "NEWS",
+                "tvg-logo": "",
+                "channel_name": "IDX"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/IDX/sa_dash_vmx/IDX.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "NEWS",
+                "tvg-id": "SEAToday.Id",
+                "tvg-logo": "",
+                "channel_name": "SEA TODAY"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "NEWS",
+                "tvg-id": "AlJazeeraEnglish.Id",
+                "tvg-logo": "",
+                "channel_name": "AL JAZEERA ENGLISH"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "NEWS",
+                "tvg-id": "RTEnglish.Id",
+                "tvg-logo": "",
+                "channel_name": "RT ENGLISH"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "NEWS",
+                "tvg-id": "France24.Id",
+                "tvg-logo": "",
+                "channel_name": "FRANCE 24"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/France24/sa_dash_vmx/France24.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "NEWS",
+                "tvg-id": "DW.Id",
+                "tvg-logo": "",
+                "channel_name": "DW"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/DW/sa_dash_vmx/DW.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "NEWS",
+                "tvg-id": "TRTWorld.Id",
+                "tvg-logo": "",
+                "channel_name": "TRT WORLD"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "NEWS",
+                "tvg-id": "CGTN.Id",
+                "tvg-logo": "",
+                "channel_name": "CGTN"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/CGTN/sa_dash_vmx/CGTN.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "SPORTS",
+                "tvg-id": "SoccerChannel.Id",
+                "tvg-logo": "",
+                "channel_name": "SOCCER CHANNEL"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "SPORTS",
+                "tvg-id": "MNCSports.Id",
+                "tvg-logo": "",
+                "channel_name": "MNC SPORTS"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "SPORTS",
+                "tvg-id": "MNCSports2.Id",
+                "tvg-logo": "",
+                "channel_name": "MNC SPORTS 2"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "SPORTS",
+                "tvg-id": "MNCSports3.Id",
+                "tvg-logo": "",
+                "channel_name": "MNC SPORTS 3"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/MNCSports-HD3/sa_dash_vmx/MNCSports3-HD.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "SPORTS",
+                "tvg-id": "SPOTV.Id",
+                "tvg-logo": "",
+                "channel_name": "SPOTV 1"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "SPORTS",
+                "tvg-id": "SPOTV2.Id",
+                "tvg-logo": "",
+                "channel_name": "SPOTV 2"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "SPORTS",
+                "tvg-id": "beINSports1.Id",
+                "tvg-logo": "",
+                "channel_name": "BEIN SPORTS 1"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "RELIGION",
+                "tvg-id": "MuslimTV.Id",
+                "tvg-logo": "",
+                "channel_name": "MUSLIM TV"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "RELIGION",
+                "tvg-id": "Life.Id",
+                "tvg-logo": "",
+                "channel_name": "LIFE"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/Life/sa_dash_vmx/Life.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "RELIGION",
+                "tvg-id": "AlQuranAlKareem.Id",
+                "tvg-logo": "",
+                "channel_name": "AL QURAN AL KAREEM"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "RELIGION",
+                "tvg-id": "EWTN.Id",
+                "tvg-logo": "",
+                "channel_name": "EWTN"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/EWTN/sa_dash_vmx/EWTN.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "RELIGION",
+                "tvg-id": "TV9.Id",
+                "tvg-logo": "",
+                "channel_name": "TV9"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/TV9/sa_dash_vmx/TV9.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "RELIGION",
+                "tvg-id": "Reformed21.Id",
+                "tvg-logo": "",
+                "channel_name": "REFORMED 21"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "RELIGION",
+                "tvg-id": "TVMu.Id",
+                "tvg-logo": "",
+                "channel_name": "TVMU"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "RELIGION",
+                "tvg-id": "TawafTV.Id",
+                "tvg-logo": "",
+                "channel_name": "TAWAF TV"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LIFESTYLE",
+                "tvg-id": "Lifestyle&Fashion.Id",
+                "tvg-logo": "",
+                "channel_name": "LIFESTYLE & FASHION"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LIFESTYLE",
+                "tvg-id": "Infotainment.Id",
+                "tvg-logo": "",
+                "channel_name": "INFOTAINMENT"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LIFESTYLE",
+                "tvg-id": "",
+                "tvg-logo": "",
+                "channel_name": "MNC SHOP"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/MNCShop/sa_dash_vmx/MNCShop.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LIFESTYLE",
+                "tvg-id": "",
+                "tvg-logo": "",
+                "channel_name": "MNC SHOP SMART"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/MNCShopSmart/sa_dash_vmx/MNCShopSmart.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LIFESTYLE",
+                "tvg-id": "AsianFoodNetwork.Id",
+                "tvg-logo": "",
+                "channel_name": "ASIAN FOOD NETWORK"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LIFESTYLE",
+                "tvg-id": "TLC.Id",
+                "tvg-logo": "",
+                "channel_name": "TLC"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/TLC/sa_dash_vmx/TLC.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "LIFESTYLE",
+                "tvg-id": "",
+                "tvg-logo": "",
+                "channel_name": "HGTV"
+            },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "com.widevine.alpha",
+                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
+            },
+            "EXTVLCOPT": {
+                "http-referrer": "https://www.visionplus.id/",
+                "http-origin": "https://www.visionplus.id/"
+            },
+            "url": "https://altostvr.prjktla.workers.dev/live/eds/HGTV/sa_dash_vmx/HGTV.mpd"
+        },
+        {
+            "EXTINF": {
+                "group-title": "RADIO",
+                "tvg-id": "",
+                "channel_name": "PRAMBORS"
+            },
+            "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FMAAC.aac?dist=altostv"
+        },
+        {
+            "EXTINF": {
+                "group-title": "RADIO",
+                "tvg-id": "",
+                "tvg-logo": "",
+                "channel_name": "INDIKA FM"
+            },
+            "url": "https://s2.radio.co/sf58a82d7d/listen"
+        }
+    ]
+}
