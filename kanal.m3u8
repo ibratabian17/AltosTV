@@ -1,8 +1,8 @@
 {
     "header": {
         "billed-msg": "AltosTV LongTermService IPTV Premium GRATIS! Jangan Lupa Bahagia",
-        "x-tvg-url": "https://raw.githubusercontent.com/ibraaltabian17/DumperYeshA/dump-epg/tv.xml",
-        "url-tvg": "https://raw.githubusercontent.com/ibraaltabian17/DumperYeshA/dump-epg/tv.xml"
+        "x-tvg-url": "https://altostvr.prjktla.workers.dev/epg.xml",
+        "url-tvg": "https://altostvr.prjktla.workers.dev/epg.xml"
     },
     "channels": [
         {
@@ -10,7 +10,7 @@
                 "name": "INFO ALTOSTV",
                 "tvg-id": "",
                 "tvg-logo": "",
-                "channel_name": "ALTOSTV REV.190824"
+                "channel_name": "ALTOSTV REV.190824 - {IngfoUpdate}"
             },
             "url": "https://droid2.prjktla.workers.dev/Dosabesarmaling.mp4"
         },
