@@ -499,7 +499,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "ENTERTAINMENT",
+                "group-title": "HIBURAN",
                 "tvg-id": "VisionPrime.Id",
                 "tvg-logo": "",
                 "channel_name": "VISION PRIME HD"
@@ -517,7 +517,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "ENTERTAINMENT",
+                "group-title": "HIBURAN",
                 "tvg-id": "Entertainment.Id",
                 "tvg-logo": "",
                 "channel_name": "ENTERTAINMENT"
@@ -535,7 +535,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "ENTERTAINMENT",
+                "group-title": "HIBURAN",
                 "tvg-id": "OKTV.Id",
                 "tvg-logo": "",
                 "channel_name": "OK TV"
@@ -553,7 +553,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "ENTERTAINMENT",
+                "group-title": "HIBURAN",
                 "tvg-id": "tvN.Id",
                 "tvg-logo": "",
                 "channel_name": "TVN"
@@ -571,7 +571,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "ENTERTAINMENT",
+                "group-title": "HIBURAN",
                 "tvg-id": "Animax.Id",
                 "tvg-logo": "",
                 "channel_name": "ANIMAX"
@@ -589,7 +589,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "ENTERTAINMENT",
+                "group-title": "HIBURAN",
                 "tvg-id": "KIX.Id",
                 "tvg-logo": "",
                 "channel_name": "KIX"
@@ -607,7 +607,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "ENTERTAINMENT",
+                "group-title": "HIBURAN",
                 "tvg-id": "NHKWorldJapan.Id",
                 "tvg-logo": "",
                 "channel_name": "NHK World TV"
@@ -625,7 +625,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "ENTERTAINMENT",
+                "group-title": "HIBURAN",
                 "tvg-id": "NHKWorldPremium.Id",
                 "tvg-logo": "",
                 "channel_name": "NHK World Premium"
@@ -643,7 +643,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "ENTERTAINMENT",
+                "group-title": "HIBURAN",
                 "tvg-id": "WarnerTV.Id",
                 "tvg-logo": "",
                 "channel_name": "WARNERTV"
@@ -661,7 +661,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "ENTERTAINMENT",
+                "group-title": "HIBURAN",
                 "tvg-id": "One.Id",
                 "tvg-logo": "",
                 "channel_name": "SONY ONE"
@@ -679,7 +679,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "ENTERTAINMENT",
+                "group-title": "HIBURAN",
                 "tvg-id": "",
                 "tvg-logo": "",
                 "channel_name": "ROCK ENTERTAINMENT"
@@ -697,7 +697,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "ENTERTAINMENT",
+                "group-title": "HIBURAN",
                 "tvg-id": "Lifetime.Id",
                 "tvg-logo": "",
                 "channel_name": "LIFETIME"
@@ -715,7 +715,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "ENTERTAINMENT",
+                "group-title": "HIBURAN",
                 "tvg-id": "AXN.Id",
                 "tvg-logo": "",
                 "channel_name": "AXN"
@@ -733,7 +733,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "ENTERTAINMENT",
+                "group-title": "HIBURAN",
                 "tvg-id": "",
                 "tvg-logo": "",
                 "channel_name": "WAKU WAKU JAPAN"
@@ -751,7 +751,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "ENTERTAINMENT",
+                "group-title": "HIBURAN",
                 "tvg-id": "HITS.Id",
                 "tvg-logo": "",
                 "channel_name": "HITS"
@@ -769,7 +769,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "ENTERTAINMENT",
+                "group-title": "HIBURAN",
                 "tvg-id": "TV5Monde.Id",
                 "tvg-logo": "",
                 "channel_name": "TV5MONDE"
@@ -787,7 +787,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "ENTERTAINMENT",
+                "group-title": "HIBURAN",
                 "tvg-id": "JiangsuTV.Id",
                 "tvg-logo": "",
                 "channel_name": "JIANGSU TV"
@@ -805,7 +805,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "ENTERTAINMENT",
+                "group-title": "HIBURAN",
                 "tvg-id": "HunanTV.Id",
                 "tvg-logo": "",
                 "channel_name": "HUNAN TV"
@@ -823,7 +823,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "ENTERTAINMENT",
+                "group-title": "HIBURAN",
                 "tvg-id": "ShanghaiDragonTV.Id",
                 "tvg-logo": "",
                 "channel_name": "SHANGHAI DRAGON TV"
@@ -841,7 +841,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "ENTERTAINMENT",
+                "group-title": "HIBURAN",
                 "tvg-id": "XingKongTV.Id",
                 "tvg-logo": "",
                 "channel_name": "XINGKONG TV"
@@ -859,7 +859,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "ENTERTAINMENT",
+                "group-title": "HIBURAN",
                 "tvg-id": "AnhuiTV.Id",
                 "tvg-logo": "",
                 "channel_name": "ANHUI TV"
@@ -877,7 +877,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "MUSIC",
+                "group-title": "MUSIK",
                 "tvg-id": "MusicTV.Id",
                 "tvg-logo": "",
                 "channel_name": "MUSIC TV"
@@ -895,7 +895,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "MUSIC",
+                "group-title": "MUSIK",
                 "tvg-id": "MTV.Id",
                 "tvg-logo": "",
                 "channel_name": "MTV LIVE HD"
@@ -913,7 +913,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "MUSIC",
+                "group-title": "MUSIK",
                 "tvg-id": "",
                 "tvg-logo": "MIC.id",
                 "channel_name": "MUSIC INFORMATION CHANNEL"
@@ -931,7 +931,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "MUSIC",
+                "group-title": "MUSIK",
                 "tvg-id": "",
                 "tvg-logo": "PopMusic.id",
                 "channel_name": "POP MUSIC"
@@ -940,7 +940,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "MOVIES",
+                "group-title": "FILM",
                 "tvg-id": "tvNMovies.Id",
                 "tvg-logo": "",
                 "channel_name": "TVN MOVIES"
@@ -958,7 +958,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "KIDS",
+                "group-title": "ANAK-ANAK",
                 "tvg-id": "Nick.Id",
                 "tvg-logo": "",
                 "channel_name": "NICKELODEON"
@@ -976,7 +976,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "KIDS",
+                "group-title": "ANAK-ANAK",
                 "tvg-id": "Boomerang.Id",
                 "tvg-logo": "",
                 "channel_name": "BOOMERANG"
@@ -994,7 +994,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "KIDS",
+                "group-title": "ANAK-ANAK",
                 "tvg-id": "CartoonNetwork.Id",
                 "tvg-logo": "",
                 "channel_name": "CARTOON NETWORK"
@@ -1012,7 +1012,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "KIDS",
+                "group-title": "ANAK-ANAK",
                 "tvg-id": "NickJr.Id",
                 "tvg-logo": "",
                 "channel_name": "NICK JUNIOR"
@@ -1030,7 +1030,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "KIDS",
+                "group-title": "ANAK-ANAK",
                 "tvg-id": "KidsTV.Id",
                 "tvg-logo": "",
                 "channel_name": "KIDSTV"
@@ -1048,7 +1048,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "KIDS",
+                "group-title": "ANAK-ANAK",
                 "tvg-id": "BabyTV.Id",
                 "tvg-logo": "",
                 "channel_name": "BABY TV"
@@ -1066,7 +1066,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "KIDS",
+                "group-title": "ANAK-ANAK",
                 "tvg-id": "",
                 "tvg-logo": "",
                 "channel_name": "SPACETOON"
@@ -1075,7 +1075,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "KIDS",
+                "group-title": "ANAK-ANAK",
                 "tvg-id": "BabyTV.Id",
                 "tvg-logo": "",
                 "channel_name": "CBEEBIES"
@@ -1093,7 +1093,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "KNOWLEDGE",
+                "group-title": "PENGETAHUAN",
                 "tvg-id": "History.Id",
                 "tvg-logo": "",
                 "channel_name": "HISTORY"
@@ -1111,7 +1111,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "KNOWLEDGE",
+                "group-title": "PENGETAHUAN",
                 "tvg-id": "NationalGeographic.Id",
                 "tvg-logo": "",
                 "channel_name": "NAT GEO"
@@ -1129,7 +1129,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "KNOWLEDGE",
+                "group-title": "PENGETAHUAN",
                 "tvg-id": "NatGeoWild.Id",
                 "tvg-logo": "",
                 "channel_name": "LOVE NATURE"
@@ -1147,7 +1147,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "KNOWLEDGE",
+                "group-title": "PENGETAHUAN",
                 "tvg-id": "BeSmart.Id",
                 "tvg-logo": "",
                 "channel_name": "BESMART"
@@ -1165,7 +1165,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "KNOWLEDGE",
+                "group-title": "PENGETAHUAN",
                 "tvg-id": "AnimalPlanet.Id",
                 "tvg-logo": "",
                 "channel_name": "ANIMAL PLANET"
@@ -1183,7 +1183,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "KNOWLEDGE",
+                "group-title": "PENGETAHUAN",
                 "tvg-id": "BBCEarth.Id",
                 "tvg-logo": "",
                 "channel_name": "BBC EARTH"
@@ -1201,7 +1201,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "KNOWLEDGE",
+                "group-title": "PENGETAHUAN",
                 "tvg-id": "CrimeInvestigation.Id",
                 "tvg-logo": "",
                 "channel_name": "CRIME INVESTIGATION"
@@ -1219,7 +1219,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "MOVIES",
+                "group-title": "FILM",
                 "tvg-id": "IMC.Id",
                 "tvg-logo": "",
                 "channel_name": "IMC"
@@ -1237,7 +1237,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "MOVIES",
+                "group-title": "FILM",
                 "tvg-id": "Galaxy.Id",
                 "tvg-logo": "",
                 "channel_name": "GALAXY"
@@ -1255,7 +1255,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "MOVIES",
+                "group-title": "FILM",
                 "tvg-id": "GalaxyPremium.Id",
                 "tvg-logo": "",
                 "channel_name": "GALAXY PREMIUM"
@@ -1273,7 +1273,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "MOVIES",
+                "group-title": "FILM",
                 "tvg-id": "MyCinema.Id",
                 "tvg-logo": "",
                 "channel_name": "MY CINEMA"
@@ -1291,7 +1291,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "MOVIES",
+                "group-title": "FILM",
                 "tvg-id": "HBOFamily.Id",
                 "tvg-logo": "",
                 "channel_name": "HBO FAMILY"
@@ -1309,7 +1309,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "MOVIES",
+                "group-title": "FILM",
                 "tvg-id": "HBOHits.Id",
                 "tvg-logo": "",
                 "channel_name": "HBO HITS"
@@ -1327,7 +1327,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "MOVIES",
+                "group-title": "FILM",
                 "tvg-id": "CINEMAX.Id",
                 "tvg-logo": "",
                 "channel_name": "CINEMAX"
@@ -1345,7 +1345,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "MOVIES",
+                "group-title": "FILM",
                 "tvg-id": "HBOSignature.Id",
                 "tvg-logo": "",
                 "channel_name": "HBO SIGNATURE"
@@ -1363,7 +1363,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "MOVIES",
+                "group-title": "FILM",
                 "tvg-id": "Thrill.Id",
                 "tvg-logo": "",
                 "channel_name": "THRILL"
@@ -1381,7 +1381,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "MOVIES",
+                "group-title": "FILM",
                 "tvg-id": "CelestialMovies.Id",
                 "tvg-logo": "",
                 "channel_name": "CELESTIAL MOVIES"
@@ -1399,7 +1399,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "MOVIES",
+                "group-title": "FILM",
                 "tvg-id": "CelestialClassicMovie.Id",
                 "tvg-logo": "",
                 "channel_name": "CCM"
@@ -1417,7 +1417,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "MOVIES",
+                "group-title": "FILM",
                 "tvg-id": "ZeeBioskop.Id",
                 "tvg-logo": "",
                 "channel_name": "ZEE BIOSKOP"
@@ -1435,7 +1435,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "MOVIES",
+                "group-title": "FILM",
                 "tvg-id": "HitsMovies.Id",
                 "tvg-logo": "",
                 "channel_name": "HITS MOVIES"
@@ -1453,7 +1453,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "NEWS",
+                "group-title": "BERITA",
                 "tvg-id": "MNCNews.Id",
                 "tvg-logo": "",
                 "channel_name": "MNC NEWS"
@@ -1471,7 +1471,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "NEWS",
+                "group-title": "BERITA",
                 "tvg-logo": "",
                 "channel_name": "IDX"
             },
@@ -1488,7 +1488,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "NEWS",
+                "group-title": "BERITA",
                 "tvg-id": "SEAToday.Id",
                 "tvg-logo": "",
                 "channel_name": "SEA TODAY"
@@ -1506,7 +1506,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "NEWS",
+                "group-title": "BERITA",
                 "tvg-id": "AlJazeeraEnglish.Id",
                 "tvg-logo": "",
                 "channel_name": "AL JAZEERA ENGLISH"
@@ -1524,7 +1524,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "NEWS",
+                "group-title": "BERITA",
                 "tvg-id": "RTEnglish.Id",
                 "tvg-logo": "",
                 "channel_name": "RT ENGLISH"
@@ -1542,7 +1542,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "NEWS",
+                "group-title": "BERITA",
                 "tvg-id": "France24.Id",
                 "tvg-logo": "",
                 "channel_name": "FRANCE 24"
@@ -1560,7 +1560,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "NEWS",
+                "group-title": "BERITA",
                 "tvg-id": "DW.Id",
                 "tvg-logo": "",
                 "channel_name": "DW"
@@ -1578,7 +1578,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "NEWS",
+                "group-title": "BERITA",
                 "tvg-id": "TRTWorld.Id",
                 "tvg-logo": "",
                 "channel_name": "TRT WORLD"
@@ -1596,7 +1596,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "NEWS",
+                "group-title": "BERITA",
                 "tvg-id": "CGTN.Id",
                 "tvg-logo": "",
                 "channel_name": "CGTN"
@@ -1614,7 +1614,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "SPORTS",
+                "group-title": "OLAHRAGA",
                 "tvg-id": "SoccerChannel.Id",
                 "tvg-logo": "",
                 "channel_name": "SOCCER CHANNEL"
@@ -1632,7 +1632,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "SPORTS",
+                "group-title": "OLAHRAGA",
                 "tvg-id": "MNCSports.Id",
                 "tvg-logo": "",
                 "channel_name": "MNC SPORTS"
@@ -1650,7 +1650,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "SPORTS",
+                "group-title": "OLAHRAGA",
                 "tvg-id": "MNCSports2.Id",
                 "tvg-logo": "",
                 "channel_name": "MNC SPORTS 2"
@@ -1668,7 +1668,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "SPORTS",
+                "group-title": "OLAHRAGA",
                 "tvg-id": "MNCSports3.Id",
                 "tvg-logo": "",
                 "channel_name": "MNC SPORTS 3"
@@ -1686,7 +1686,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "SPORTS",
+                "group-title": "OLAHRAGA",
                 "tvg-id": "SPOTV.Id",
                 "tvg-logo": "",
                 "channel_name": "SPOTV 1"
@@ -1704,7 +1704,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "SPORTS",
+                "group-title": "OLAHRAGA",
                 "tvg-id": "SPOTV2.Id",
                 "tvg-logo": "",
                 "channel_name": "SPOTV 2"
@@ -1722,7 +1722,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "SPORTS",
+                "group-title": "OLAHRAGA",
                 "tvg-id": "beINSports1.Id",
                 "tvg-logo": "",
                 "channel_name": "BEIN SPORTS 1"
@@ -1740,7 +1740,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "RELIGION",
+                "group-title": "AGAMA",
                 "tvg-id": "MuslimTV.Id",
                 "tvg-logo": "",
                 "channel_name": "MUSLIM TV"
@@ -1758,7 +1758,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "RELIGION",
+                "group-title": "AGAMA",
                 "tvg-id": "Life.Id",
                 "tvg-logo": "",
                 "channel_name": "LIFE"
@@ -1776,7 +1776,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "RELIGION",
+                "group-title": "AGAMA",
                 "tvg-id": "AlQuranAlKareem.Id",
                 "tvg-logo": "",
                 "channel_name": "AL QURAN AL KAREEM"
@@ -1794,7 +1794,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "RELIGION",
+                "group-title": "AGAMA",
                 "tvg-id": "EWTN.Id",
                 "tvg-logo": "",
                 "channel_name": "EWTN"
@@ -1812,7 +1812,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "RELIGION",
+                "group-title": "AGAMA",
                 "tvg-id": "TV9.Id",
                 "tvg-logo": "",
                 "channel_name": "TV9"
@@ -1830,7 +1830,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "RELIGION",
+                "group-title": "AGAMA",
                 "tvg-id": "Reformed21.Id",
                 "tvg-logo": "",
                 "channel_name": "REFORMED 21"
@@ -1848,7 +1848,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "RELIGION",
+                "group-title": "AGAMA",
                 "tvg-id": "TVMu.Id",
                 "tvg-logo": "",
                 "channel_name": "TVMU"
@@ -1866,7 +1866,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "RELIGION",
+                "group-title": "AGAMA",
                 "tvg-id": "TawafTV.Id",
                 "tvg-logo": "",
                 "channel_name": "TAWAF TV"
@@ -1884,7 +1884,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "LIFESTYLE",
+                "group-title": "GAYA HIDUP",
                 "tvg-id": "Lifestyle&Fashion.Id",
                 "tvg-logo": "",
                 "channel_name": "LIFESTYLE & FASHION"
@@ -1902,7 +1902,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "LIFESTYLE",
+                "group-title": "GAYA HIDUP",
                 "tvg-id": "Infotainment.Id",
                 "tvg-logo": "",
                 "channel_name": "INFOTAINMENT"
@@ -1920,7 +1920,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "LIFESTYLE",
+                "group-title": "GAYA HIDUP",
                 "tvg-id": "",
                 "tvg-logo": "",
                 "channel_name": "MNC SHOP"
@@ -1938,7 +1938,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "LIFESTYLE",
+                "group-title": "GAYA HIDUP",
                 "tvg-id": "",
                 "tvg-logo": "",
                 "channel_name": "MNC SHOP SMART"
@@ -1956,7 +1956,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "LIFESTYLE",
+                "group-title": "GAYA HIDUP",
                 "tvg-id": "AsianFoodNetwork.Id",
                 "tvg-logo": "",
                 "channel_name": "ASIAN FOOD NETWORK"
@@ -1974,7 +1974,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "LIFESTYLE",
+                "group-title": "GAYA HIDUP",
                 "tvg-id": "TLC.Id",
                 "tvg-logo": "",
                 "channel_name": "TLC"
@@ -1992,7 +1992,7 @@
         },
         {
             "EXTINF": {
-                "group-title": "LIFESTYLE",
+                "group-title": "GAYA HIDUP",
                 "tvg-id": "",
                 "tvg-logo": "",
                 "channel_name": "HGTV"
