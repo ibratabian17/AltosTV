@@ -18,7 +18,7 @@
             "EXTINF": {
                 "group-title": "LOKAL",
                 "tvg-id": "RCTI.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/200px-RCTI_logo_2015.svg.png",
                 "channel_name": "RCTI"
             },
             "KODIPROP": {
@@ -36,7 +36,7 @@
             "EXTINF": {
                 "group-title": "LOKAL",
                 "tvg-id": "GTV.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/190px-GTV_%282017%29.svg.png",
                 "channel_name": "GTV"
             },
             "KODIPROP": {
@@ -54,7 +54,7 @@
             "EXTINF": {
                 "group-title": "LOKAL",
                 "tvg-id": "MNCTV.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/200px-MNCTV_logo_2015.svg.png",
                 "channel_name": "MNC TV"
             },
             "KODIPROP": {
@@ -72,7 +72,7 @@
             "EXTINF": {
                 "group-title": "LOKAL",
                 "tvg-id": "Trans7.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/200px-Trans_7_2013.svg.png",
                 "channel_name": "TRANS 7"
             },
             "KODIPROP": {
@@ -90,7 +90,7 @@
             "EXTINF": {
                 "group-title": "LOKAL",
                 "tvg-id": "TransTV.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/200px-Trans_TV_2013.svg.png",
                 "channel_name": "TRANS TV"
             },
             "KODIPROP": {
@@ -108,7 +108,7 @@
             "EXTINF": {
                 "group-title": "LOKAL",
                 "tvg-id": "",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CNN_Indonesia_logo_%282023%29.svg/200px-CNN_Indonesia_logo_%282023%29.svg.png",
                 "channel_name": "CNN INDONESIA"
             },
             "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8"
@@ -118,7 +118,7 @@
                 "group-title": "LOKAL",
                 "tvg-id": "CNBCIndonesia.id",
                 "name": "",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CNBC_Indonesia_2024.svg/200px-CNBC_Indonesia_2024.svg.png",
                 "channel_name": "CNBC INDONESIA"
             },
             "EXTVLCOPT": {
@@ -130,7 +130,7 @@
             "EXTINF": {
                 "group-title": "LOKAL",
                 "tvg-id": "Indosiar.id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/200px-Indosiar_2015.svg.png",
                 "channel_name": "INDOSIAR"
             },
             "EXTVLCOPT": {
@@ -144,7 +144,7 @@
                 "group-title": "LOKAL",
                 "tvg-id": "MentariTV.id",
                 "name": "",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/200px-Mentari_TV.svg.png",
                 "channel_name": "MENTARI TV"
             },
             "EXTVLCOPT": {
@@ -157,7 +157,7 @@
                 "group-title": "LOKAL",
                 "tvg-id": "OChannel.id",
                 "name": "",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/200px-Moji_blue.svg.png",
                 "channel_name": "MOJI"
             },
             "EXTVLCOPT": {
@@ -169,7 +169,7 @@
             "EXTINF": {
                 "group-title": "LOKAL",
                 "tvg-id": "ANTV.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/200px-Antv_logo.svg.png",
                 "channel_name": "ANTV"
             },
             "KODIPROP": {
@@ -187,7 +187,7 @@
             "EXTINF": {
                 "group-title": "LOKAL",
                 "tvg-id": "RTV.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/200px-Rajawali_Televisi.svg.png",
                 "channel_name": "RTV"
             },
             "KODIPROP": {
@@ -205,7 +205,7 @@
             "EXTINF": {
                 "group-title": "LOKAL",
                 "tvg-id": "MetroTV.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/200px-LogoMetroTVsince2010.svg.png",
                 "channel_name": "METRO TV"
             },
             "KODIPROP": {
@@ -223,7 +223,7 @@
             "EXTINF": {
                 "group-title": "LOKAL",
                 "tvg-id": "iNews.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/INews.svg/200px-INews.svg.png",
                 "channel_name": "INEWS"
             },
             "KODIPROP": {
@@ -241,7 +241,7 @@
             "EXTINF": {
                 "tvg-id": "SCTV.id",
                 "name": "",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/200px-SCTV_Logo.svg.png",
                 "channel_name": "SCTV"
             },
             "EXTVLCOPT": {
@@ -254,7 +254,7 @@
             "EXTINF": {
                 "group-title": "LOKAL",
                 "tvg-id": "Net..Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/id/7/7c/Netmediatama.png",
                 "channel_name": "NET."
             },
             "KODIPROP": {
@@ -272,7 +272,7 @@
             "EXTINF": {
                 "group-title": "LOKAL",
                 "tvg-id": "TVOne.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/200px-TvOne_2023.svg.png",
                 "channel_name": "TVONE"
             },
             "KODIPROP": {
@@ -291,7 +291,7 @@
                 "group-title": "LOKAL",
                 "tvg-id": "vtv.id",
                 "name": "",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/VTV_Indonesia_2023.svg/200px-VTV_Indonesia_2023.svg.png",
                 "channel_name": "VTV"
             },
             "EXTVLCOPT": {
@@ -303,7 +303,7 @@
             "EXTINF": {
                 "group-title": "LOKAL",
                 "tvg-id": "TVRI.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/170px-TVRILogo2019.svg.png",
                 "channel_name": "TVRI"
             },
             "KODIPROP": {
@@ -321,7 +321,7 @@
             "EXTINF": {
                 "group-title": "LOKAL",
                 "tvg-id": "JakTV.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/id/thumb/c/cc/Logo_Jak_TV_%282018%29.png/200px-Logo_Jak_TV_%282018%29.png",
                 "channel_name": "JAKTV"
             },
             "KODIPROP": {
@@ -339,7 +339,7 @@
             "EXTINF": {
                 "group-title": "LOKAL",
                 "tvg-id": "JTV.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_%28Indonesian_TV_channel%29_2022.svg/180px-JTV_%28Indonesian_TV_channel%29_2022.svg.png",
                 "channel_name": "JTV"
             },
             "KODIPROP": {
@@ -357,7 +357,7 @@
             "EXTINF": {
                 "group-title": "LOKAL",
                 "tvg-id": "BaliTV.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/id/thumb/b/b9/BaliTV_2014.png/250px-BaliTV_2014.png",
                 "channel_name": "BALI TV"
             },
             "KODIPROP": {
@@ -375,7 +375,7 @@
             "EXTINF": {
                 "group-title": "LOKAL",
                 "tvg-id": "DaaiTV.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/DAAI_TV.svg/200px-DAAI_TV.svg.png",
                 "channel_name": "DAAI TV"
             },
             "KODIPROP": {
@@ -393,7 +393,7 @@
             "EXTINF": {
                 "group-title": "LOKAL",
                 "tvg-id": "BandungTV.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_bdg_tv_2016.png/200px-Logo_bdg_tv_2016.png",
                 "channel_name": "BANDUNG TV"
             },
             "KODIPROP": {
@@ -411,7 +411,7 @@
             "EXTINF": {
                 "group-title": "LOKAL",
                 "tvg-id": "KompasTV.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/KOMPAS_TV_%282017%29.svg/200px-KOMPAS_TV_%282017%29.svg.png",
                 "channel_name": "KOMPAS TV"
             },
             "KODIPROP": {
@@ -429,7 +429,7 @@
             "EXTINF": {
                 "group-title": "LOKAL",
                 "tvg-id": "BeritaSatu.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/200px-BTV_%28Indonesia%29_logo.svg.png",
                 "channel_name": "BTV"
             },
             "KODIPROP": {
@@ -447,7 +447,7 @@
             "EXTINF": {
                 "group-title": "LOKAL",
                 "tvg-id": "BeritaSatu.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/200px-BTV_%28Indonesia%29_logo.svg.png",
                 "channel_name": "BTV HD"
             },
             "url": "https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8"
@@ -456,7 +456,7 @@
             "EXTINF": {
                 "group-title": "LOKAL",
                 "tvg-id": "",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/id/thumb/a/af/TATV_logo.svg/200px-TATV_logo.svg.png",
                 "channel_name": "TATV"
             },
             "url": "https://v2.siar.us/tatv/live.sdp/chunks.m3u8"
@@ -473,17 +473,8 @@
         {
             "EXTINF": {
                 "group-title": "LOKAL",
-                "tvg-id": "",
-                "tvg-logo": "",
-                "channel_name": "ADITV"
-            },
-            "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8"
-        },
-        {
-            "EXTINF": {
-                "group-title": "LOKAL",
                 "tvg-id": "JTV.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_%28Indonesian_TV_channel%29_2022.svg/180px-JTV_%28Indonesian_TV_channel%29_2022.svg.png",
                 "channel_name": "JTV"
             },
             "url": "https://cdn02.mola.tv/Content/HLS/Live/channel(f2cd666d-f350-1140-7ce5-3d7f39f84727)/08.m3u8"
@@ -492,7 +483,7 @@
             "EXTINF": {
                 "group-title": "LOKAL",
                 "tvg-id": "",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/MagnaChannel.png/200px-MagnaChannel.png",
                 "channel_name": "MAGNA CHANNEL"
             },
             "url": "https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1544941124_b878000_sleng.m3u8"
@@ -501,7 +492,7 @@
             "EXTINF": {
                 "group-title": "HIBURAN",
                 "tvg-id": "VisionPrime.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/id/thumb/2/2b/Vision_Prime_2020.png/240px-Vision_Prime_2020.png",
                 "channel_name": "VISION PRIME HD"
             },
             "KODIPROP": {
@@ -519,7 +510,7 @@
             "EXTINF": {
                 "group-title": "HIBURAN",
                 "tvg-id": "Entertainment.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ent_%282020%29.png/140px-Ent_%282020%29.png",
                 "channel_name": "ENTERTAINMENT"
             },
             "KODIPROP": {
@@ -555,7 +546,7 @@
             "EXTINF": {
                 "group-title": "HIBURAN",
                 "tvg-id": "tvN.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/200px-Logo_tvN.svg.png",
                 "channel_name": "TVN"
             },
             "KODIPROP": {
@@ -573,7 +564,7 @@
             "EXTINF": {
                 "group-title": "HIBURAN",
                 "tvg-id": "Animax.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/200px-Animaxlogo-20160701.png",
                 "channel_name": "ANIMAX"
             },
             "KODIPROP": {
@@ -591,7 +582,7 @@
             "EXTINF": {
                 "group-title": "HIBURAN",
                 "tvg-id": "KIX.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/200px-KIX_logo.svg.png",
                 "channel_name": "KIX"
             },
             "KODIPROP": {
@@ -609,7 +600,7 @@
             "EXTINF": {
                 "group-title": "HIBURAN",
                 "tvg-id": "NHKWorldJapan.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/250px-NHK_World.svg.png",
                 "channel_name": "NHK World TV"
             },
             "KODIPROP": {
@@ -627,7 +618,7 @@
             "EXTINF": {
                 "group-title": "HIBURAN",
                 "tvg-id": "NHKWorldPremium.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/250px-NHK_World.svg.png",
                 "channel_name": "NHK World Premium"
             },
             "KODIPROP": {
@@ -645,7 +636,7 @@
             "EXTINF": {
                 "group-title": "HIBURAN",
                 "tvg-id": "WarnerTV.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/170px-Warner_Channel.svg.png",
                 "channel_name": "WARNERTV"
             },
             "KODIPROP": {
@@ -663,8 +654,8 @@
             "EXTINF": {
                 "group-title": "HIBURAN",
                 "tvg-id": "One.Id",
-                "tvg-logo": "",
-                "channel_name": "SONY ONE"
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/id/thumb/d/d6/Logo_One_TV_Asia_%282020%29.png/220px-Logo_One_TV_Asia_%282020%29.png",
+                "channel_name": "ONE"
             },
             "KODIPROP": {
                 "inputstream": "inputstream.adaptive",
