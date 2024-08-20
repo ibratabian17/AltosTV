@@ -465,7 +465,7 @@
             "EXTINF": {
                 "group-title": "LOKAL",
                 "tvg-id": "",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/TVRI-World.svg/220px-TVRI-World.svg.png",
                 "channel_name": "TVRI 3"
             },
             "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8"
@@ -528,7 +528,7 @@
             "EXTINF": {
                 "group-title": "HIBURAN",
                 "tvg-id": "OKTV.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://vignette.wikia.nocookie.net/logo-tv/images/5/51/Ok_TV.png/revision/latest?cb=20210324053544",
                 "channel_name": "OK TV"
             },
             "KODIPROP": {
@@ -672,7 +672,7 @@
             "EXTINF": {
                 "group-title": "HIBURAN",
                 "tvg-id": "",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rock_Entertainment.png/290px-Rock_Entertainment.png",
                 "channel_name": "ROCK ENTERTAINMENT"
             },
             "KODIPROP": {
@@ -690,7 +690,7 @@
             "EXTINF": {
                 "group-title": "HIBURAN",
                 "tvg-id": "Lifetime.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/220px-Logo_Lifetime_2020.svg.png",
                 "channel_name": "LIFETIME"
             },
             "KODIPROP": {
@@ -708,7 +708,7 @@
             "EXTINF": {
                 "group-title": "HIBURAN",
                 "tvg-id": "AXN.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/220px-AXN_logo_%282015%29.svg.png",
                 "channel_name": "AXN"
             },
             "KODIPROP": {
@@ -726,7 +726,7 @@
             "EXTINF": {
                 "group-title": "HIBURAN",
                 "tvg-id": "",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/220px-WakuWaku_Japan_logo.svg.png",
                 "channel_name": "WAKU WAKU JAPAN"
             },
             "KODIPROP": {
@@ -744,7 +744,7 @@
             "EXTINF": {
                 "group-title": "HIBURAN",
                 "tvg-id": "HITS.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HITS-WWW-Banner1.png/200px-HITS-WWW-Banner1.png",
                 "channel_name": "HITS"
             },
             "KODIPROP": {
@@ -762,7 +762,7 @@
             "EXTINF": {
                 "group-title": "HIBURAN",
                 "tvg-id": "TV5Monde.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/220px-Logo_TV5_Monde_-_2021.svg.png",
                 "channel_name": "TV5MONDE"
             },
             "KODIPROP": {
@@ -780,7 +780,7 @@
             "EXTINF": {
                 "group-title": "HIBURAN",
                 "tvg-id": "JiangsuTV.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Jiangsu_Broadcasting_Corporation.svg/150px-Jiangsu_Broadcasting_Corporation.svg.png",
                 "channel_name": "JIANGSU TV"
             },
             "KODIPROP": {
@@ -870,7 +870,7 @@
             "EXTINF": {
                 "group-title": "MUSIK",
                 "tvg-id": "MusicTV.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Music_TV_%282020%29.png/200px-Music_TV_%282020%29.png",
                 "channel_name": "MUSIC TV"
             },
             "KODIPROP": {
@@ -888,7 +888,7 @@
             "EXTINF": {
                 "group-title": "MUSIK",
                 "tvg-id": "MTV.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/220px-MTV_Live_2021_logo.svg.png",
                 "channel_name": "MTV LIVE HD"
             },
             "KODIPROP": {
@@ -933,7 +933,7 @@
             "EXTINF": {
                 "group-title": "FILM",
                 "tvg-id": "tvNMovies.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://yt3.googleusercontent.com/ytc/AIdro_kb_ecZMuo0MqrOyWROtFl2OoyFrJqgRpd3_qP5TKpCB3Y=s900-c-k-c0x00ffffff-no-rj",
                 "channel_name": "TVN MOVIES"
             },
             "KODIPROP": {
@@ -951,7 +951,7 @@
             "EXTINF": {
                 "group-title": "ANAK-ANAK",
                 "tvg-id": "Nick.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/200px-Nickelodeon_2023_logo_%28outline%29.svg.png",
                 "channel_name": "NICKELODEON"
             },
             "KODIPROP": {
@@ -968,44 +968,8 @@
         {
             "EXTINF": {
                 "group-title": "ANAK-ANAK",
-                "tvg-id": "Boomerang.Id",
-                "tvg-logo": "",
-                "channel_name": "BOOMERANG"
-            },
-            "KODIPROP": {
-                "inputstream": "inputstream.adaptive",
-                "inputstream.adaptive.license_type": "com.widevine.alpha",
-                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
-            },
-            "EXTVLCOPT": {
-                "http-referrer": "https://www.visionplus.id/",
-                "http-origin": "https://www.visionplus.id/"
-            },
-            "url": "https://altostvr.prjktla.workers.dev/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd"
-        },
-        {
-            "EXTINF": {
-                "group-title": "ANAK-ANAK",
-                "tvg-id": "CartoonNetwork.Id",
-                "tvg-logo": "",
-                "channel_name": "CARTOON NETWORK"
-            },
-            "KODIPROP": {
-                "inputstream": "inputstream.adaptive",
-                "inputstream.adaptive.license_type": "com.widevine.alpha",
-                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
-            },
-            "EXTVLCOPT": {
-                "http-referrer": "https://www.visionplus.id/",
-                "http-origin": "https://www.visionplus.id/"
-            },
-            "url": "https://altostvr.prjktla.workers.dev/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd"
-        },
-        {
-            "EXTINF": {
-                "group-title": "ANAK-ANAK",
                 "tvg-id": "NickJr.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/200px-Nick_Jr._logo_2023_%28outline%29.svg.png",
                 "channel_name": "NICK JUNIOR"
             },
             "KODIPROP": {
@@ -1023,7 +987,7 @@
             "EXTINF": {
                 "group-title": "ANAK-ANAK",
                 "tvg-id": "KidsTV.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/id/thumb/7/7f/Kids_TV_%282020%29.png/250px-Kids_TV_%282020%29.png",
                 "channel_name": "KIDSTV"
             },
             "KODIPROP": {
@@ -1059,7 +1023,7 @@
             "EXTINF": {
                 "group-title": "ANAK-ANAK",
                 "tvg-id": "",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/Spacetoon.png/200px-Spacetoon.png",
                 "channel_name": "SPACETOON"
             },
             "url": "https://bravo.kugo.id/spacetoon/udp.stream_360p/playlist.m3u8"
@@ -1067,8 +1031,8 @@
         {
             "EXTINF": {
                 "group-title": "ANAK-ANAK",
-                "tvg-id": "BabyTV.Id",
-                "tvg-logo": "",
+                "tvg-id": "CBEEBIES.Id",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/CBeebies_2023_%28alt%29.svg/150px-CBeebies_2023_%28alt%29.svg.png",
                 "channel_name": "CBEEBIES"
             },
             "KODIPROP": {
@@ -1086,7 +1050,7 @@
             "EXTINF": {
                 "group-title": "PENGETAHUAN",
                 "tvg-id": "History.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/220px-History_%282021%29.svg.png",
                 "channel_name": "HISTORY"
             },
             "KODIPROP": {
@@ -1103,26 +1067,8 @@
         {
             "EXTINF": {
                 "group-title": "PENGETAHUAN",
-                "tvg-id": "NationalGeographic.Id",
-                "tvg-logo": "",
-                "channel_name": "NAT GEO"
-            },
-            "KODIPROP": {
-                "inputstream": "inputstream.adaptive",
-                "inputstream.adaptive.license_type": "com.widevine.alpha",
-                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
-            },
-            "EXTVLCOPT": {
-                "http-referrer": "https://www.visionplus.id/",
-                "http-origin": "https://www.visionplus.id/"
-            },
-            "url": "https://altostvr.prjktla.workers.dev/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd"
-        },
-        {
-            "EXTINF": {
-                "group-title": "PENGETAHUAN",
                 "tvg-id": "NatGeoWild.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png",
                 "channel_name": "LOVE NATURE"
             },
             "KODIPROP": {
@@ -1139,26 +1085,8 @@
         {
             "EXTINF": {
                 "group-title": "PENGETAHUAN",
-                "tvg-id": "BeSmart.Id",
-                "tvg-logo": "",
-                "channel_name": "BESMART"
-            },
-            "KODIPROP": {
-                "inputstream": "inputstream.adaptive",
-                "inputstream.adaptive.license_type": "com.widevine.alpha",
-                "inputstream.adaptive.license_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh"
-            },
-            "EXTVLCOPT": {
-                "http-referrer": "https://www.visionplus.id/",
-                "http-origin": "https://www.visionplus.id/"
-            },
-            "url": "https://altostvr.prjktla.workers.dev/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd"
-        },
-        {
-            "EXTINF": {
-                "group-title": "PENGETAHUAN",
                 "tvg-id": "AnimalPlanet.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",
                 "channel_name": "ANIMAL PLANET"
             },
             "KODIPROP": {
@@ -1176,7 +1104,7 @@
             "EXTINF": {
                 "group-title": "PENGETAHUAN",
                 "tvg-id": "BBCEarth.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/220px-BBC_Earth_2023.svg.png",
                 "channel_name": "BBC EARTH"
             },
             "KODIPROP": {
@@ -1194,7 +1122,7 @@
             "EXTINF": {
                 "group-title": "PENGETAHUAN",
                 "tvg-id": "CrimeInvestigation.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/220px-Crime_%2B_Investigation_Logo_10.2019.svg.png",
                 "channel_name": "CRIME INVESTIGATION"
             },
             "KODIPROP": {
@@ -1212,7 +1140,7 @@
             "EXTINF": {
                 "group-title": "FILM",
                 "tvg-id": "IMC.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://www.mncvision.id/userfiles/image/channel/channel_14.png",
                 "channel_name": "IMC"
             },
             "KODIPROP": {
@@ -1230,7 +1158,7 @@
             "EXTINF": {
                 "group-title": "FILM",
                 "tvg-id": "Galaxy.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://www.mncvision.id/userfiles/image/channel/channel_13.png",
                 "channel_name": "GALAXY"
             },
             "KODIPROP": {
@@ -1248,7 +1176,7 @@
             "EXTINF": {
                 "group-title": "FILM",
                 "tvg-id": "GalaxyPremium.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://www.mncvision.id/userfiles/image/channel/channel_12.png",
                 "channel_name": "GALAXY PREMIUM"
             },
             "KODIPROP": {
@@ -1266,7 +1194,7 @@
             "EXTINF": {
                 "group-title": "FILM",
                 "tvg-id": "MyCinema.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/My_Cinema_Logo_kedua.png/200px-My_Cinema_Logo_kedua.png",
                 "channel_name": "MY CINEMA"
             },
             "KODIPROP": {
@@ -1284,7 +1212,7 @@
             "EXTINF": {
                 "group-title": "FILM",
                 "tvg-id": "HBOFamily.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/HBO_Family_%282014%29.svg/220px-HBO_Family_%282014%29.svg.png",
                 "channel_name": "HBO FAMILY"
             },
             "KODIPROP": {
@@ -1356,7 +1284,7 @@
             "EXTINF": {
                 "group-title": "FILM",
                 "tvg-id": "Thrill.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Thrill_logo.jpg/200px-Thrill_logo.jpg",
                 "channel_name": "THRILL"
             },
             "KODIPROP": {
@@ -1374,7 +1302,7 @@
             "EXTINF": {
                 "group-title": "FILM",
                 "tvg-id": "CelestialMovies.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://www.mncvision.id/userfiles/image/channel/celestial.png",
                 "channel_name": "CELESTIAL MOVIES"
             },
             "KODIPROP": {
@@ -1392,7 +1320,7 @@
             "EXTINF": {
                 "group-title": "FILM",
                 "tvg-id": "CelestialClassicMovie.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://vignette.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png/revision/latest?cb=20190603053700",
                 "channel_name": "CCM"
             },
             "KODIPROP": {
@@ -1410,7 +1338,7 @@
             "EXTINF": {
                 "group-title": "FILM",
                 "tvg-id": "ZeeBioskop.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://www.mncvision.id/userfiles/image/channel/channel_23.png",
                 "channel_name": "ZEE BIOSKOP"
             },
             "KODIPROP": {
@@ -1428,7 +1356,7 @@
             "EXTINF": {
                 "group-title": "FILM",
                 "tvg-id": "HitsMovies.Id",
-                "tvg-logo": "",
+                "tvg-logo": "https://vignette.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest/scale-to-width-down/250?cb=20210828003911",
                 "channel_name": "HITS MOVIES"
             },
             "KODIPROP": {
