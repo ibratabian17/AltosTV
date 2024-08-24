@@ -133,11 +133,16 @@
                 "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/200px-Indosiar_2015.svg.png",
                 "channel_name": "INDOSIAR"
             },
+            "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "clearkey",
+                "inputstream.adaptive.license_key": "5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6"
+            },
             "EXTVLCOPT": {
                 "http-referrer": "https://www.dens.tv/",
                 "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
             },
-            "url": "http://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8?app_type=web&userid=lite&chname=Indosiar"
+            "url": "https://altostvr.prjktla.workers.dev/live2/eds/IndosiarHD/mpd/IndosiarHD.mpd"
         },
         {
             "EXTINF": {
@@ -239,16 +244,22 @@
         },
         {
             "EXTINF": {
+                "group-title": "LOKAL",
                 "tvg-id": "SCTV.id",
                 "name": "",
                 "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/200px-SCTV_Logo.svg.png",
                 "channel_name": "SCTV"
             },
+           "KODIPROP": {
+                "inputstream": "inputstream.adaptive",
+                "inputstream.adaptive.license_type": "clearkey",
+                "inputstream.adaptive.license_key": "a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7"
+            },
             "EXTVLCOPT": {
                 "http-referrer": "https://www.dens.tv/",
-                "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+                "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36"
             },
-            "url": "http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8"
+            "url": "https://altostvr.prjktla.workers.dev/live2/eds/SCTVHD/mpd/SCTVHD.mpd"
         },
         {
             "EXTINF": {
