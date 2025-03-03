@@ -140,9 +140,9 @@
             },
             "EXTVLCOPT": {
                 "http-referrer": "https://www.dens.tv/",
-                "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+                "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
             },
-            "url": "https://altostvr.prjktla.workers.dev/live2/eds/IndosiarHD/mpd/IndosiarHD.mpd"
+            "url": "http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8"
         },
         {
             "EXTINF": {
@@ -257,16 +257,16 @@
             },
             "EXTVLCOPT": {
                 "http-referrer": "https://www.dens.tv/",
-                "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36"
+                "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
             },
-            "url": "https://altostvr.prjktla.workers.dev/live2/eds/SCTVHD/mpd/SCTVHD.mpd"
+            "url": "http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8"
         },
         {
             "EXTINF": {
                 "group-title": "Lokal",
-                "tvg-id": "Net..Id",
-                "tvg-logo": "https://upload.wikimedia.org/wikipedia/id/7/7c/Netmediatama.png",
-                "channel_name": "NET."
+                "tvg-id": "NET.Id",
+                "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/512px-MDTV_logo.svg.png",
+                "channel_name": "MDTV"
             },
             "KODIPROP": {
                 "inputstream": "inputstream.adaptive",
